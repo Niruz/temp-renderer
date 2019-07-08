@@ -1,0 +1,8 @@
+﻿  main.cpp
+d:\visual studio 2017 project folder\newgame\project1\project1\renderables.cpp(25): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\visual studio 2017 project folder\newgame\project1\project1\renderables.cpp(26): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\visual studio 2017 project folder\newgame\project1\project1\renderables.cpp(27): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\visual studio 2017 project folder\newgame\project1\project1\renderables.cpp(28): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\visual studio 2017 project folder\newgame\project1\project1\direct3d.cpp(444): warning C4018: '<': signed/unsigned mismatch
+d:\visual studio 2017 project folder\newgame\project1\project1\main.cpp(72): warning C4244: 'initializing': conversion from 'WPARAM' to 'unsigned int', possible loss of data
+  Project1.vcxproj -> D:\Visual Studio 2017 Project Folder\NewGame\Project1\x64\Debug\Project1.exe
